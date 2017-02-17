@@ -5,8 +5,6 @@ The version used for this program is Python 3.2
 Following is the output on my computer :
 
 pid, laddr, raddr, status
-
-
 10812 , 2601:646:847f:569d:a513:701d:9827:8a7@49772 , 2607:f8b0:400e:c02::bc@5228 , ESTABLISHED
 10812 , 10.0.0.111@50731 , 52.86.93.101@443 , CLOSE_WAIT
 10812 , 10.0.0.111@50730 , 23.197.99.208@443 , ESTABLISHED
